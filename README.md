@@ -17,7 +17,8 @@ All Services for this page
 
 ## Usage
 
-> Some usage instructions
+> Make sure url has an id to load products, in the format of http://localhost:3001/api/products?id=
+> Data is stored with one parent product, each contains an array variations. See db/model.js for schema.
 
 ## Requirements
 

@@ -39,7 +39,7 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-jest": "^26.1.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
